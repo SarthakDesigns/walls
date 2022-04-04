@@ -61,5 +61,13 @@
 		"author": "Unsplash",
 		"url": "https://images.unsplash.com/photo-1648471533584-e7c5040a5db2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
 	 	"category": "hill"
+	},
+	{
+
+		"name": "1",
+		"author": "Unsplash",
+		"url": "https://images.unsplash.com/photo-1630511389894-061404df9d50?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+	 	"category": "waves"
+
 	}
 ]
