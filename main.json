@@ -4,7 +4,8 @@
 		"name": "Scenery 1",
 		"author": "Unsplash",
 		"url": "https://images.unsplash.com/photo-1630511389894-061404df9d50?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-	 	"category": "Scenery"
+	 	"category": "Scenery",
+	       "id": "sceneryone"
 
 	},
         {
@@ -12,14 +13,16 @@
 		"name": "gradient 2",
 		"author": "Unsplash",
 		"url": "https://media.istockphoto.com/photos/abstract-gradient-blurred-colorful-picture-id1350239607?b=1&k=20&m=1350239607&s=170667a&w=0&h=TCVcPBOgrAvhGF6nPGqKbXEvQ3ciS4QZsVPLrdalvgs=",
-		"category": "gradient"
+		"category": "gradient",
+		"id": "gradienttwo"
 	},
 	{
 
 		"name": "pastel 3",
 		"author": "Unsplash",
 		"url": "https://media.istockphoto.com/photos/abstract-art-background-orange-and-coral-colors-watercolor-painting-picture-id1291182390?b=1&k=20&m=1291182390&s=170667a&w=0&h=9cvYlR0h_vvvMstYrX2wsywjWmHdwFbqLAgILJwI6Js=",
-	 	"category": "pastel"
+	 	"category": "pastel",
+		"id": "pastelthree"
 
 	},
 	{
@@ -27,7 +30,8 @@
 		"name": "Scenery 4",
 		"author": "Unsplash",
 		"url": "https://images.unsplash.com/photo-1648471533584-e7c5040a5db2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-	 	"category": "Scenery"
+	 	"category": "Scenery",
+		"id": "sceneryfour"
 
 	},
 	{
@@ -35,7 +39,8 @@
 		"name": "amoled 5",
 		"author": "Unsplash",
 		"url": "https://media.istockphoto.com/photos/wallpaper-oled-super-amoled-amoled-picture-id1287711119?b=1&k=20&m=1287711119&s=170667a&w=0&h=RhWZlz88f4xBay3ymiuq3bltTG8awGYMrVU1tmmnidU=",
-	 	"category": "amoled"
+	 	"category": "amoled",
+		"id": "amoledfive"
 
 	},
         {
@@ -43,14 +48,16 @@
 		"name": "black 6",
 		"author": "Unsplash",
 		"url": "https://images.unsplash.com/photo-1502736842968-bcaab72d0700?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YW1vbGVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-	       "category": "black"
+	       "category": "black",
+		"id": "blackfive"
 	},
 	{
 
 		"name": "amoled 7",
 		"author": "Unsplash",
 		"url": "https://images.unsplash.com/photo-1551509134-eb7c5ea9ad2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YW1vbGVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-	 	"category": "amoled"
+	 	"category": "amoled",
+		"id": "amoledseven"
 
 	},
 	{
@@ -58,14 +65,16 @@
 		"name": "hill 8",
 		"author": "Unsplash",
 		"url": "https://media.istockphoto.com/photos/aerial-view-of-a-sunrise-in-the-mountains-picture-id1285344693?b=1&k=20&m=1285344693&s=170667a&w=0&h=6GWrfa_yPOACY_6RZQFLuRpi0f_GXmOBvycRMARk26A=",
-	 	"category": "hill"
+	 	"category": "hill",
+		"id": "hill8"
 	},
 	{
 
 		"name": "waves 9",
 		"author": "Unsplash",
 		"url": "https://media.istockphoto.com/photos/sound-wave-picture-id1287065554?b=1&k=20&m=1287065554&s=170667a&w=0&h=6JIPYTu98DAXdChKSeu-Td3zv8KyLC3yhu-rWfkDQQc=",
-	 	"category": "waves"
+	 	"category": "waves",
+		"id": "wavesnine"
 
 	}
 ]
