@@ -7,7 +7,7 @@
 	 	"category": "Scenery",
 	       "color": "orange",
 	       "id": "sceneryone",
-	       "special": "true"
+	       {"special":true}
 
 	},
         {
@@ -18,7 +18,7 @@
 		"category": "gradient",
 		  "color": "orange",
 		"id": "gradienttwo",
-		 "special": "true"
+		    {"special":true}
 	},
 	{
 
@@ -28,7 +28,7 @@
 	 	"category": "pastel",
 		  "color": "yellow",
 		"id": "pastelthree",
-		 "special": "false"
+		    {"special":false}
 
 	},
 	{
@@ -39,7 +39,7 @@
 	 	"category": "Scenery",
 		  "color": "black",
 		"id": "sceneryfour",
-		 "special": "true"
+		     {"special":false}
 
 	},
 	{
@@ -50,7 +50,7 @@
 	 	"category": "amoled",
 		  "color": "black",
 		"id": "amoledfive",
-		 "special": "false"
+		    {"special":true}
 
 	},
         {
@@ -61,7 +61,7 @@
 	       "category": "black",
 		  "color": "black",
 		"id": "blackfive",
-		 "special": "true"
+		    {"special":false}
 	},
 	{
 
@@ -71,7 +71,7 @@
 	 	"category": "amoled",
 		  "color": "black",
 		"id": "amoledseven",
-		 "special": "false"
+		    {"special":true}
 
 	},
 	{
@@ -82,7 +82,7 @@
 	 	"category": "hill",
 		  "color": "green",
 		"id": "hill8",
-		 "special": "false"
+		     {"special":false}
 	},
 	{
 
@@ -92,7 +92,7 @@
 	 	"category": "waves",
 		  "color": "blue",
 		"id": "wavesnine",
-		 "special": "false"
+	    {"special":false}
 
 	}
 ]
