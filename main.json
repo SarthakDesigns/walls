@@ -1,124 +1,423 @@
 [
-       {
+   {
+
+		"name": "Mountain Site",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/NcmilqB.jpg",
+	 	"category": "Scenery",
+	  "id": "ountaiite1",
+	  "special": 1
+	},
+   {
 
 		"name": "Scenery 1",
-		"author": "Unsplash",
-	       "banner": 0,
-		"url": "https://images.unsplash.com/photo-1661169693525-69a05e0e0843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/tbcXc5W.jpg",
 	 	"category": "Scenery",
-	       "color": "orange",
-	       "id": "sceneryone",
-	       "special": 1
-
+	  "id": "Sceneryone",
+	  "special": 0
 	},
-        {
-	
-		"name": "leaves 1",
-		"author": "Unsplash",
-		  "banner": 0,
-		"url": "https://images.unsplash.com/photo-1661095678542-21ab6107e737?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-		"category": "nature",
-		  "color": "orange",
-		"id": "leavesone",
-		   "special":0
+  {
+
+		"name": "Scenery 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/cVF3r1Q.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytwo",
+	  "special": 1
 	},
-	{
-		"name": "leaves 2",
-		"author": "Unsplash",
-		  "banner": 0,
-		"url": "https://images.unsplash.com/photo-1660912866771-097cc701b87d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-	 	"category": "nature",
-		  "color": "yellow",
-		"id": "leavestwo",
-		      "special": 1
+   {
 
+		"name": "Gradient 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/LWPuYYR.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientone",
+	  "special": 1
 	},
-	{
+  {
 
-		"name": "Abstract 1",
-		  "banner": 0,
-		"author": "Unsplash",
-		"url": "https://images.unsplash.com/photo-1660944487352-209c5ac69bb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-	 	"category": "abstract",
-		  "color": "black",
-		"id": "abstractone",
-		      "special": 1
-
+		"name": "Gradient 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/gcRDyB6.jpg",
+	 	"category": "Gradient",
+	  "id": "gradienttwo",
+	  "special": 1
 	},
-	{
+  {
 
-		"name": "Abstract 2",
-		"author": "Unsplash",
-		  "banner": 0,
-		"url": "https://images.unsplash.com/photo-1660944485879-a3be005fcd59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-	 	"category": "abstract",
-		  "color": "black",
-		"id": "abstracttwo",
-		     "special": 0
-
+		"name": "Gradient 3",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/NrN3LGY.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientthree",
+	  "special": 1
 	},
-        {
-	
-		"name": "Amoled 1",
-		"author": "Unsplash",
-		"url": "https://images.unsplash.com/photo-1660883292879-73531876abd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-	       "category": "amoled",
-		  "banner": 0,
-		  "color": "black",
-		"id": "amoledone",
-		      "special": 1
-	},
-	{
+  {
 
-		"name": "scenery 2",
-		"author": "Unsplash",
-		"url": "https://images.unsplash.com/photo-1660660519984-4e24c429916c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwfGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+		"name": "Teaxtography 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/56mtpAD.jpg",
+	 	"category": "Teaxtography",
+	  "id": "Teaxtographyone",
+	  "special": 1
+	},
+  {
+		"name": "Gradient 4",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/U78n0Eo.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientfour",
+	  "special": 1
+	},
+  {
+		"name": "Gradient 5",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/wBfgyn8.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientfive",
+	  "special": 1
+	},
+    {
+		"name": "Scenery 3",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/DgIojwJ.jpg",
+	 	"category": "Gradient",
+	  "id": "scenerythree",
+	  "special": 0
+	},
+  {
+		"name": "Pastel 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/UHxghPc.jpg",
+	 	"category": "Pastel",
+	  "id": "pastelone",
+	  "special": 1
+	},
+  {
+		"name": "Pastel 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/EZvdHFj.jpg",
+	 	"category": "Pastel",
+	  "id": "pasteltwo",
+	  "special": 1
+	},
+  {
+		"name": "Gradient 6",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/q6tSqz7.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientsix",
+	  "special": 1
+	},
+  {
+		"name": "Gradient 7",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/GZ6efnK.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientseven",
+	  "special": 0
+	},
+  {
+		"name": "Gradient 8",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/0t4W0qn.jpg",
+	 	"category": "Gradient",
+	  "id": "gradienteight",
+	  "special": 1
+	},
+  {
+		"name": "Scenery 4",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/W8tSZV9.jpg",
+	 	"category": "Scenery",
+	  "id": "sceneryfour",
+	  "special": 1
+	},
+  {
+		"name": "Scenery 5",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/6KI0A7u.jpg",
+	 	"category": "Scenery",
+	  "id": "sceneryfive",
+	  "special": 1
+	},
+  {
+		"name": "Gradient 9",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/TPh15y5.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientnine",
+	  "special": 0
+	},
+  {
+		"name": "Gradient 10",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/DJZjk0V.jpg",
+	 	"category": "Gradient",
+	  "id": "gradientten",
+	  "special": 0
+	},
+  {
+		"name": "Fluid 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/CASH9pi.jpg",
+	 	"category": "Fluid",
+	  "id": "fluidone",
+	  "special": 1
+	},
+  {
+		"name": "Scenery 6",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/3t70946.jpg",
 	 	"category": "scenery",
-		  "banner": 0,
-		  "color": "black",
-		"id": "scenerytwo",
-		   "special": 0
-
+	  "id": "scenerysix",
+	  "special": 0
 	},
-	{
-
-		"name": "hill 8",
-		"author": "Unsplash",
-		"url": "https://media.istockphoto.com/photos/aerial-view-of-a-sunrise-in-the-mountains-picture-id1285344693?b=1&k=20&m=1285344693&s=170667a&w=0&h=6GWrfa_yPOACY_6RZQFLuRpi0f_GXmOBvycRMARk26A=",
-	 	"category": "hill",
-		  "banner": 0,
-		  "color": "green",
-		"id": "hill8",
-		       "special": 0
+  {
+		"name": "Scenery 7",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/xMiIXAJ.jpg",
+	 	"category": "scenery",
+	  "id": "sceneryseven",
+	  "special": 0
 	},
-	{
-
-		"name": "waves 9",
-		"author": "Unsplash",
-		"url": "https://media.istockphoto.com/photos/sound-wave-picture-id1287065554?b=1&k=20&m=1287065554&s=170667a&w=0&h=6JIPYTu98DAXdChKSeu-Td3zv8KyLC3yhu-rWfkDQQc=",
-	 	"category": "waves",
-		  "color": "blue",
-		  "banner": 0,
-		"id": "wavesnine",
-	   "special": 0
-
+   {
+		"name": "Gradient 11",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/9GkglWs.jpg",
+	 	"category": "gradient",
+	  "id": "gradienteleven",
+	  "special": 0
 	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://play.google.com/store/apps/details?id=peacock.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_309.jpg"
+  {
+		"name": "Gradient 12",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/EWLdEe5.jpg",
+	 	"category": "gradient",
+	  "id": "gradienteltwelve",
+	  "special": 0
 	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://play.google.com/store/apps/details?id=venus.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_126.jpg"
+  {
+		"name": "Gradient 13",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/X7GuQ0O.jpg",
+	 	"category": "gradient",
+	  "id": "gradienteltenthree",
+	  "special": 1
 	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://t.me/Wallery_Walls",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/download.png"
+  {
+		"name": "Scenery 8",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/zsOa7HB.jpg",
+	 	"category": "scenery",
+	  "id": "sceneryeight",
+	  "special": 0
+	},
+  {
+		"name": "Gradient 14",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/00TcXod.jpg",
+	 	"category": "Gradient",
+	  "id": "gradienttenfour",
+	  "special": 1
+	},
+  {
+		"name": "Abstract 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/QIXxwdc.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstractone",
+	  "special": 1
+	},
+  {
+		"name": "Scenery 9",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/2dcI4uO.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerynine",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 10",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/mF2y2RS.jpg",
+	 	"category": "Scenery",
+	  "id": "Sceneryten",
+	  "special": 0
+	},
+  {
+		"name": "Abstract 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/OxvLTza.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstracttwo",
+	  "special": 1
+	},
+  {
+		"name": "Textography 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/VfaFYQV.jpg",
+	 	"category": "Textography",
+	  "id": "Textographytwo",
+	  "special": 1
+	},
+  {
+		"name": "Pastel 3",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/f5YsMQb.jpg",
+	 	"category": "Pastel",
+	  "id": "Pastelthree",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 11",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/uSpePC1.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytenone",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 12",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/7UQ1XGv.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytentwo",
+	  "special": 1
+	},
+  {
+		"name": "Pastel 4",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/dZt4S8K.jpg",
+	 	"category": "Pastel",
+	  "id": "Pastelfour",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 13",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/HxDImON.jpg",
+	 	"category": "Scenery",
+	  "id": "Sceneryonethree",
+	  "special": 0
+	},
+  {
+		"name": "Pastel 5",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/oiQzVT5.jpg",
+	 	"category": "Pastel",
+	  "id": "Pastelfive",
+	  "special": 0
+	},
+  {
+		"name": "Gradient 15",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/5oRZhiT.jpg",
+	 	"category": "Gradient",
+	  "id": "Gradienttenfive",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 14",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/wulBEha.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytenfour",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 15",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/5C4V3Ab.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytenfive",
+	  "special": 1
+	},
+  {
+		"name": "Pastel 6",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/xFvMQjr.jpg",
+	 	"category": "Pastel",
+	  "id": "Pastelsix",
+	  "special": 0
+	},
+  {
+		"name": "Pastel 7",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/Tb2zCEi.jpg",
+	 	"category": "Pastel",
+	  "id": "Pastelseven",
+	  "special": 1
+	},
+  {
+		"name": "Scenery 16",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/XlBQQIo.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytensix",
+	  "special": 1
+	},
+  {
+		"name": "Pastel 8",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/4KYBH6L.jpg",
+	 	"category": "Pastel",
+	  "id": "Pasteleight",
+	  "special": 0
+	},
+  {
+		"name": "Scenery 17",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://i.imgur.com/6UOKBAF.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenerytenseven",
+	  "special": 1
 	}
 ]
