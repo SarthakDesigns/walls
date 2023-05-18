@@ -103,22 +103,5 @@
 	   "special": 0
 
 	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://play.google.com/store/apps/details?id=peacock.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_309.jpg"
-	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://play.google.com/store/apps/details?id=venus.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_126.jpg"
-	},
-	{
-		"banner": 1,
-		"launchUrl": 1,
-		"banUrl": "https://t.me/Wallery_Walls",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/download.png"
-	}
+	
 ]
